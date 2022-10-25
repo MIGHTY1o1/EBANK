@@ -1,2 +1,11 @@
 # EBANK
-this is bank which will give to the functionality for adding a new account, features for the account holder that are deposit the money, widraw the money transfer the money, also while opening the account, account holder must give a name for at least 5 character and a phone number with 10 digits and also an email with a @ a symbol .
+This is a Ebank application that will give you the functionality 
+to register 
+to add balance to your account 
+to withdraw money 
+to transfer money 
+
+Also when you are opening the account the code is set in such a way that 
+your name should be more than 5 charecters 
+your email should have a @ symbol 
+your phone number should have 10 digits
