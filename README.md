@@ -19,8 +19,6 @@ reg ex : "(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[#@$*%]).{5,10}";
 duplicate customer details should not be stored.
  
 
-Centralized exception handling for smooth termination of program 
-
 
 EBANK UI..
 1. Customer registration
